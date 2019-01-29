@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DataBindingSample</string>
+
+    <string-array name="name_list">
+        <item> Sayan Mukherjee </item>
+        <item> Ashutosh Chakraborty </item>
+        <item> Arup Sarkar </item>
+        <item> Joy Das </item>
+        <item> Debayan Chowdhury</item>
+        <item> Mondira pal </item>
+    </string-array>
+
+    <string-array name="phone_list">
+        <item> 9846665651 </item>
+        <item> 7824653452 </item>
+        <item> 8956563566 </item>
+        <item> 9186586658 </item>
+        <item> 7785325632 </item>
+        <item> 9456635565 </item>
+    </string-array>
+
+</resources>
